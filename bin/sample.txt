@@ -1,0 +1,15 @@
+E ujjawal 10
+E ujjawal1 50 
+S
+R
+P 
+R
+E ujjawal2 4
+E ujjawal3 10
+B
+E ujjawal4 10
+E ujjawal5 4
+S
+P 
+R
+B
